@@ -5,10 +5,10 @@ Deployment is automated by GitHub Actions.
 
   | Artifact               | Link                                                                          | Mirror                                         |
   | ---------------------- | ----------------------------------------------------------------------------- | ---------------------------------------------- |
-  | Résumé                 | <https://seabassjh.github.io/latex-resume/resume.html>                               | <https://seabassjh.github.io/latex-resume/>           |
-  | Résumé, Embedded       | <https://seabassjh.github.io/latex-resume/resume-embed.html>                         | <https://seabassjh.github.io/latex-resume/embed.html> |
-  | Résumé, Download       | <https://github.com/seabassjh/latex-resume/releases/download/latest/resume.pdf>      |                                                |
-- Manually pushed [releases](https://github.com/seabassjh/latex-resume/releases) also trigger workflows to upload artifacts.
+  | Résumé                 | <https://sebasjham.github.io/latex-resume/resume.html>                               | <https://sebasjham.github.io/latex-resume/>           |
+  | Résumé, Embedded       | <https://sebasjham.github.io/latex-resume/resume-embed.html>                         | <https://sebasjham.github.io/latex-resume/embed.html> |
+  | Résumé, Download       | <https://github.com/sebasjham/latex-resume/releases/download/latest/resume.pdf>      |                                                |
+- Manually pushed [releases](https://github.com/sebasjham/latex-resume/releases) also trigger workflows to upload artifacts.
 
 # 🔧 Building
 ## Dependencies
